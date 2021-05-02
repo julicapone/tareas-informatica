@@ -33,21 +33,13 @@ Pasos de mensajes -> Avisos que puede enviar un proceso a otro, el intermediario
 
 **Planificación de procesos**
 
-- FIFO -> First In, First Out
+- FIFO -> First In, First Out -> Primero el que lo solicite primero.
 
-Primero el que lo solicite primero.
+- SJF -> Shortest Job First -> Primero el que menor tiempo lleve.
 
-- SJF -> Shortest Job First
+- SRTF -> Shortest Remaining Time First -> Primero el que menor tiempo lleve, solo que puede interrumpir un proceso para que entre uno todavía más corto.
 
-Primero el que menor tiempo lleve.
-
-- SRTF -> Shortest Remaining Time First
-
-Primero el que menor tiempo lleve, solo que puede interrumpir un proceso para que entre uno todavía más corto.
-
-- Round Robin
-
-Existe una cantidad de tiempo establecida (quantum) para cada proceso.
+- Round Robin -> Existe una cantidad de tiempo establecida (quantum) para cada proceso.
 
 **Hilos || Thread**
 
