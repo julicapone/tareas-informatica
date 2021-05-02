@@ -3,11 +3,15 @@
 ## Procesos
 
 Lo que se inicia cuando queremos que la computadora realice una instrucción, es la ejecución de un programa.
+
 Se ejecutan uno a la vez.
+
 Son efímeros (se crean y se terminan).
 
 Se crean de varias formas:
+
 **Por el usuario, de manera interactiva.**
+
 **En segundo plano, como llamadas al sistema.**
 
 Tienen estados:
@@ -21,8 +25,7 @@ Tienen estados:
 
 - Terminado
 
-**IPC** -> Inter process -> mecanismos de comunicación entre procesos.
-Existen 2
+**IPC** -> Inter process -> mecanismos de comunicación entre procesos (existen 2):
 
 Memoria compartida -> Se establece un espacio en memoria que será compartido por los procesos.
 
