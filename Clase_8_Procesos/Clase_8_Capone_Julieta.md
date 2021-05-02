@@ -6,17 +6,14 @@ Lo que se inicia cuando queremos que la computadora realice una instrucción, es
 Se ejecutan uno a la vez.
 Son efímeros (se crean y se terminan).
 
-Se crean de varias formas.
+Se crean de varias formas:
+**Por el usuario, de manera interactiva.**
+**En segundo plano, como llamadas al sistema.**
 
-**Por el usuario, de manera interactiva**
-
-**En segundo plano, como llamadas al sistema**
-
-Tienen estados.
-
+Tienen estados:
 - Nuevo
 
-- Preparado -> cargado en memoria.
+- Preparado (cargado en memoria)
 
 - En ejecución 
 
