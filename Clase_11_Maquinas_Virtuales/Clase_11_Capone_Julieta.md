@@ -33,6 +33,8 @@ Ventajas:
 
 - Aplicaciones libres de ejecutarse en cualquier entorno
 
+- Una app puede trabajar con uno o más contenedores al mismo tiempo y viceversa
+
 Para implementar un contenedor hay que crear una imagen base del software.
 
 ![docker command](docker_command.png)
@@ -45,7 +47,7 @@ Para implementar un contenedor hay que crear una imagen base del software.
 
 Dentro de una VM puede haber contenedores.
 
+**Administración de contenedores || Orquestadores**
 
-
-**Administración de contenedores**
-
+Ayudan en la administración y automatización de los contenedores y de los servidores en dónde estos corren.
+Estos alertan cuando algún contenedor falla, y puede desviar las peticiones hacia otro contenedor.
