@@ -32,6 +32,16 @@ Los lenguajes imperativos proporcionan la receta, mientras que los declarativos,
 Mediante la compilación, que toma el código fuente y lo tranforma en el ejecutable en código máquina.
 Este resultado debería poder ejecutarse siempre que la máquina dónde se compile sea similar (SO, CPU) a la que lo quiera ejecutar.
 
+**Puede mi código ser entendido independientemente de dónde de compile?**
+
+Sí, hay 2 formas.
+
+- **Máquinas virtuales**
+
+- **Intérpretes** -> Analiza línea por linea y traduce a código máquina.
+
+
+
 
 
 
