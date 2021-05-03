@@ -50,4 +50,16 @@ Dentro de una VM puede haber contenedores.
 **Administración de contenedores || Orquestadores**
 
 Ayudan en la administración y automatización de los contenedores y de los servidores en dónde estos corren.
-Estos alertan cuando algún contenedor falla, y puede desviar las peticiones hacia otro contenedor.
+Estos alertan cuando algún contenedor falla, y puede desviar las peticiones hacia otro contenedor(puede crear replicas de tu aplicación.).
+
+Podríamos decir entonces que utilizar un orquestador automatiza la configuracion, el despliegue, el escalamiento, la administración, la comunicación y la disponibilidad de los contenedores.
+
+Características:
+
+- Autoreparación -> Puede reemplazar un contenedor por otro.
+
+- Retroceso automatizado -> Como un ctrl Z.
+
+- Autoescalado
+
+- Balance de carga -> Puede distribuir el tráfico de red entre servidores.
