@@ -8,13 +8,17 @@
 
 Un paradigma es una forma de pensar bajo un modelo.
 
-- **Paradigma estructurado** -> Una instrucción a la vez.
+- Programación imperativa
 
-- **Paradigma de programación orientado a objetos** -> El código se agrupa para representar entidades, se crean abstracciones.
+    - **Paradigma estructurado** -> Una instrucción a la vez.
 
-- **Paradigma funcional** -> Se basa en las funciones matemáticas.
+    - **Paradigma de programación orientado a objetos** -> El código se agrupa para representar entidades, se crean abstracciones.
 
-- **Paradigma lógico** -> En lugar de desarrollar pasos e instrucciones, infiere mediante reglas lógicas.
+- Pogramación declarativa
+
+    - **Paradigma funcional** -> Se basa en las funciones matemáticas.
+
+    - **Paradigma lógico** -> En lugar de desarrollar pasos e instrucciones, infiere mediante reglas lógicas.
 
 - **Paradigma de programación con lenguaje específico de dominio** -> Tratan de resolver problemáticas superespecíficas.
 
