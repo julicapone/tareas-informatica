@@ -29,11 +29,13 @@ Ventajas:
 
 - Poder desplegar varias aplicaciones en un mismo entorno físico
 
-- Fiabilidad de las imágenes ya que no pueden ser modificadas una vez creadas.
+- Fiabilidad de las imágenes ya que no pueden ser modificadas una vez creadas
 
 - Aplicaciones libres de ejecutarse en cualquier entorno
 
 Para implementar un contenedor hay que crear una imagen base del software.
+
+![docker command](docker_command.png)
 
 - docker build -> crea una imagen a partir de un Dockerfile.
 
