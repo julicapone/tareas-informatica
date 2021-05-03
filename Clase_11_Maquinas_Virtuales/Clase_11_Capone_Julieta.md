@@ -20,3 +20,30 @@ El hypervisor de tipo 2 (como VmWorkstation o VirtualBox) es conocido como "host
 Es más lento.
 
 ## Contenedores
+
+Es un concepto de empaquetación de software que incluye la aplicación y sus dependencias. No requieren de un hypervisor.
+
+Ventajas:
+
+- Ahorran recursos físicos
+
+- Poder desplegar varias aplicaciones en un mismo entorno físico
+
+- Fiabilidad de las imágenes ya que no pueden ser modificadas una vez creadas.
+
+- Aplicaciones libres de ejecutarse en cualquier entorno
+
+Para implementar un contenedor hay que crear una imagen base del software.
+
+- docker build -> crea una imagen a partir de un Dockerfile.
+
+- docker run -> ejecuta la imagen (crea el contenedor). 
+
+- docker pull -> descarga una imagen o un repositorio del servidor de registros Docker.
+
+Dentro de una VM puede haber contenedores.
+
+
+
+**Administración de contenedores**
+
