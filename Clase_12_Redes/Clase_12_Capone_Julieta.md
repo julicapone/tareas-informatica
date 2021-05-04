@@ -42,12 +42,14 @@ La transmisión y la recepción de información se lleva a cabo por antenas. Est
 
 Las compañías de internet proveen un router con modem integrado y capaz de transmitir datos por cable y WiFi. 
 
-En el caso de que no pueda compartir WiFi hay que conseguir un punto de acceso.
+En el caso de que el router que tenemos no pueda compartir WiFi, hay que conseguir un punto de acceso.
 
 El lugar ideal para el router es lo más cerca al centro de la casa.
 
 Cables de red -> UTP 5E o 6, con dos fichas RJ45 (ethernet) en sus extremos.
 
+**PLC** -> Extensores de red WiFi.
+
 De afuera viene un cable de la red WAN que va conectado a nuestro router.
 
-PLC -> Extensores de red WiFi.
+![router](router.jpeg)
