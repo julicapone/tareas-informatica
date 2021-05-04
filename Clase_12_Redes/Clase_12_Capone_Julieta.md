@@ -21,3 +21,19 @@ Están constituidos por cables que se encargan de la conducción de las señales
 La transmisión y la recepción de información se lleva a cabo por antenas. Estas irradian **energía electromagnética**.
 
 ![medios no guiados](medios_no_guiados.png)
+
+#### Caracteristicas de una **red de datos**
+
+- Velocidad -> (subida, bajada), se mide generalmente en megabits por segundo.
+
+- Seguridad
+
+- Confiabilidad
+
+- Escalabilidad
+
+- Disponibilidad
+
+**Paquete** -> Son los bloques en los que se divide la información por al red.
+
+**Ping** -> Es el tiempo en el que demora un paquete de datos en ser enviado de un dispositivo a otro, se mide en milisegundos.
