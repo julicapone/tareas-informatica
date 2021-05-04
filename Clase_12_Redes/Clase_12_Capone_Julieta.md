@@ -53,3 +53,8 @@ Cables de red -> UTP 5E o 6, con dos fichas RJ45 (ethernet) en sus extremos.
 De afuera viene un cable de la red WAN que va conectado a nuestro router.
 
 ![router](router.jpeg)
+
+Siempre que nos conectamos a una red, el router nos identifica para reconocernos, es decir, administra la red.
+El router "posee" (es) una **puerta de enlace**.
+
+**Gateway || Puerta de enlace** -> router, es el equipo que se encarga de salir hacia internet, el que tiene la WAN.
