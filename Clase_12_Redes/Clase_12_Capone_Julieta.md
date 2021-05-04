@@ -14,6 +14,8 @@ El medio de transmisión constituye el soporte físico a través del cual el emi
 
 Están constituidos por cables que se encargan de la conducción de las señales desde un extremo a otro.
 
+![medios guiados](medios_guiados.png)
+
 #### Medios no guiados
 
 La transmisión y la recepción de información se lleva a cabo por antenas. Estas irradian **energía electromagnética**.
