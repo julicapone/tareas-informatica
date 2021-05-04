@@ -19,3 +19,5 @@ Están constituidos por cables que se encargan de la conducción de las señales
 #### Medios no guiados
 
 La transmisión y la recepción de información se lleva a cabo por antenas. Estas irradian **energía electromagnética**.
+
+![medios no guiados](medios_no_guiados.png)
