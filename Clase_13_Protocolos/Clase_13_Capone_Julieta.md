@@ -2,7 +2,7 @@
 
 ## Protocolos
 
-![protocolos](tcp_ip.jpeg)
+![protocolos](tcp_ip.png)
 
 #### TCP -> Transmission Control protocol -> Protocolo de control de transmición
 
