@@ -19,7 +19,7 @@ Este protocolo se encargará de buscar el mejor método de enrutamiento, no gara
 
 ### DHCP 
 
-![DHCP](dhcp.jpeg)
+![DHCP](dhcp.png)
 
 [Es un protocolo de red de tipo cliente/servidor mediante el cual un servidor DHCP asigna dinámicamente una dirección IP y otros parámetros de configuración de red a cada dispositivo en una red para que puedan comunicarse con otras redes IP. Este servidor posee una lista de direcciones IP dinámicas y las va asignando a los clientes conforme estas van quedando libres.]
 
