@@ -4,22 +4,18 @@
 
 ![protocolos](tcp_ip.png)
 
-#### TCP -> Transmission Control protocol -> Protocolo de control de transmición
+### TCP
 
 ![TCP](tcp.png)
 
 [TCP da soporte a muchas de las aplicaciones más populares de Internet (navegadores, intercambio de ficheros, clientes FTP, etc.) y protocolos de aplicación HTTP, SMTP, SSH y FTP.]
 
-#### IP -> Internet Protocol -> Protocolo de Internet
+### IP
 
-Protocolo de comunicación de datos digitales en la capa de la red.
-**Lleva datos de origen a destino**, aunque no tenga conexion directa.
+![IP](ip.png)
 
 Los datos se transfieren mediante paquetes conmutados.
-
 Este protocolo se encargará de buscar el mejor método de enrutamiento, no garantiza alcanzar el destino final.
-
-
 
 #### DHCP -> Dynamic Host Configuration Protocol -> Protocolo de configuración dinámica de hosts
 
