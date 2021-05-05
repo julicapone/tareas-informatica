@@ -2,6 +2,14 @@
 
 ## Protocolos
 
+![protocolos](tcp_ip.jpeg)
+
+#### TCP -> Transmission Control protocol -> Protocolo de control de transmición
+
+![TCP](tcp.png)
+
+[TCP da soporte a muchas de las aplicaciones más populares de Internet (navegadores, intercambio de ficheros, clientes FTP, etc.) y protocolos de aplicación HTTP, SMTP, SSH y FTP.]
+
 #### IP -> Internet Protocol -> Protocolo de Internet
 
 Protocolo de comunicación de datos digitales en la capa de la red.
@@ -11,19 +19,7 @@ Los datos se transfieren mediante paquetes conmutados.
 
 Este protocolo se encargará de buscar el mejor método de enrutamiento, no garantiza alcanzar el destino final.
 
-#### TCP -> Transmission Control protocol -> Protocolo de control de transmición
 
-Garantiza que los datos sean entregados al lugar de destino, sin errores y en orden.
-
-También garantiza:
-
-- El establecimiento de la conexión
-
-- La transferencia de datos
-
-- La finalización de la conexión
-
-[TCP da soporte a muchas de las aplicaciones más populares de Internet (navegadores, intercambio de ficheros, clientes FTP, etc.) y protocolos de aplicación HTTP, SMTP, SSH y FTP.]
 
 #### DHCP -> Dynamic Host Configuration Protocol -> Protocolo de configuración dinámica de hosts
 
