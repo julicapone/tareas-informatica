@@ -23,7 +23,7 @@ Este protocolo se encargará de buscar el mejor método de enrutamiento, no gara
 
 [Es un protocolo de red de tipo cliente/servidor mediante el cual un servidor DHCP asigna dinámicamente una dirección IP y otros parámetros de configuración de red a cada dispositivo en una red para que puedan comunicarse con otras redes IP. Este servidor posee una lista de direcciones IP dinámicas y las va asignando a los clientes conforme estas van quedando libres.]
 
-### HTTP -> Hypertext Transfer Protocol -> Protocolo de transferencia de hypertexto
+### HTTP Y HTTPS -> Hypertext Transfer Protocol -> Protocolo de transferencia de hypertexto
 
 Orientado a transacciones, sigue el esquema petición-respuesta entre un cliente y un servidor.
 Es algo inseguro.
@@ -34,4 +34,7 @@ Es algo inseguro.
 
 Su función es traducir los nombres de los domunnios "youtuve.com" en identificadores binarios.
 
-### FTP ->  -> Protocolo de transferencia de hypertexto
+### FTP -> Protocolo de transferencia de hypertexto
+
+### UDP
+
