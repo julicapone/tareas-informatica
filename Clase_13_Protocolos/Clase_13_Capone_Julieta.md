@@ -4,6 +4,10 @@
 
 ![protocolos](tcp_ip.png)
 
+### UDP -> User Datagram Protocol -> Protocolo de datagramas de usuario
+
+Permite el envío de datagramas a través de la red sin que se haya establecido previamente una conexión, ya que el propio datagrama incorpora suficiente información de direccionamiento en su cabecera. Tampoco tiene confirmación ni control de flujo, por lo que los paquetes pueden adelantarse unos a otros; y tampoco se sabe si ha llegado correctamente, ya que no hay confirmación de entrega o recepción.
+
 ### TCP
 
 ![TCP](tcp.png)
@@ -35,6 +39,4 @@ Es algo inseguro.
 Su función es traducir los nombres de los domunnios "youtuve.com" en identificadores binarios.
 
 ### FTP -> Protocolo de transferencia de hypertexto
-
-### UDP
 
