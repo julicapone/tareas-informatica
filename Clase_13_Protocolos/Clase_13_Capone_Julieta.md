@@ -6,7 +6,7 @@
 
 ### UDP -> User Datagram Protocol -> Protocolo de datagramas de usuario
 
-Permite el envío de datagramas a través de la red sin que se haya establecido previamente una conexión, ya que el propio datagrama incorpora suficiente información de direccionamiento en su cabecera. Tampoco tiene confirmación ni control de flujo, por lo que los paquetes pueden adelantarse unos a otros; y tampoco se sabe si ha llegado correctamente, ya que no hay confirmación de entrega o recepción.
+[Permite el envío de datagramas a través de la red sin que se haya establecido previamente una conexión, ya que el propio datagrama incorpora suficiente información de direccionamiento en su cabecera. Tampoco tiene confirmación ni control de flujo, por lo que los paquetes pueden adelantarse unos a otros; y tampoco se sabe si ha llegado correctamente, ya que no hay confirmación de entrega o recepción.]
 
 ### TCP
 
@@ -36,7 +36,8 @@ Es algo inseguro.
 
 ### DNS -> Domain Name System -> Sistema de nombres de dominio
 
-Su función es traducir los nombres de los domunnios "youtuve.com" en identificadores binarios.
+Su función es traducir los nombres de los dominios "youtube.com" en identificadores binarios.
 
-### FTP -> Protocolo de transferencia de hypertexto
+### FTP ->  File Transfer Protocol -> Protocolo de transferencia de archivos
 
+[Es un protocolo de red para la transferencia de archivos entre sistemas conectados a una red TCP (Transmission Control Protocol), basado en la arquitectura cliente-servidor. Desde un equipo cliente se puede conectar a un servidor para descargar archivos desde él o para enviarle archivos, independientemente del sistema operativo utilizado en cada equipo.]
