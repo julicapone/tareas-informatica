@@ -1,4 +1,4 @@
-# Clase 18
+# Clase 17
 
 ## Etica informática
 
